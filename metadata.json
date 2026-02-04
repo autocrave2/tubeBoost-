@@ -1,0 +1,8 @@
+{
+  "name": "Copy of TubeBoost AI",
+  "description": "An all-in-one AI-powered toolkit for YouTube creators to generate titles, tags, descriptions, voiceovers, and video content.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
